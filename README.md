@@ -1,2 +1,2 @@
 # complete-web-dev
-This is the complete web development 2 course from Udemy repository.
+This is the complete web developer 2 course from Udemy repository.
